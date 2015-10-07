@@ -1,2 +1,2 @@
 # graphics
-Graphics stuffs for the ValaTox project (client, etc)
+Graphics stuffs for the Ricin project (client, website, etc)
